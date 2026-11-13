@@ -71,9 +71,9 @@ Run order in SQL Developer (open the file, press **F5**):
 
 
 ## Screenshots
-![diagram](asset/diagram.png)
-![Table creation](asset/c1.png)
-![Data Insertion](asset/insertion.png)
+![diagram](asset/diagram.PNG)
+![Table creation](asset/c1.PNG)
+![Data Insertion](asset/insertion.PNG)
 
 
 ## Repository Structure
