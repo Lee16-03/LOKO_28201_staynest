@@ -1,10 +1,14 @@
 # LOKO_28201_staynest
 LOKO  EZONSOU ELDAD 
 SOFTWARE ENGINEERING PROJECT
+
 # StayNest - Accommodation Booking and Reservation Management System
 
 > StayNest is a modern web platform for advertising and booking rental properties such as houses, apartments, and short-term accommodations. The system automates the complete reservation lifecycle, from guest search to payment confirmation, while providing centralized management tools for hosts and administrators.
 
+# Database used
+https://insideairbnb.com/get-the-data/ 
+I focused my study in Amsterdam
 
 ## About the Project
 
