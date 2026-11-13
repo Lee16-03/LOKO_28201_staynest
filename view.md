@@ -25,6 +25,8 @@
 | Administrator | Supervises platform activities, verifies manual payments, handles authorized cancellations, and generates reports. |
 | Payment System | Processes secure financial transactions and returns payment status. |
 | Notification System | Sends automated alerts (booking requests, approvals, rejections, payments, confirmations) to users. |
+| Booking| see confirmation of booking; which property they book. |
+| Property | how many properties someone has |
 
 
 ## Business Process Modeling (BPM)
