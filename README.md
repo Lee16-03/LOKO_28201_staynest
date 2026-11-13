@@ -42,6 +42,7 @@ The system architecture is grounded in a UML Activity Diagram with Swimlanes mod
 ## Database Operations (CRUD Summary)
 
 | Operation | Activities |
+| :--- | :--- |
 | CREATE | Guest registration, booking request submission, payment record creation, notification generation. |
 | READ | Property search, calendar availability check, reservation status review, history monitoring. |
 | UPDATE | Booking approval/rejection, payment status verification, availability calendar lock, cancellation status update. |
