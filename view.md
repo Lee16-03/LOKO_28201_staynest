@@ -53,7 +53,7 @@ The system architecture is grounded in a UML Activity Diagram with Swimlanes mod
 
 ## Technical Modeling and Tools
 
-* Modeling Tool: diagrams.net (draw.io)
+* Modeling Tool: diagrams.net (StarUML)
 * Modeling Technique: UML Activity Diagram with Swimlanes
 * Process Documentation: Detailed specification files located under `docs/business_process/`
 
