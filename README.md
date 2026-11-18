@@ -90,6 +90,14 @@ staynest/
 │       ├── business_process_diagram.pdf
 │       └── business_process_explanation.pdf
 └── database/
+    ├── setup
+        ├── 01_create_PDB.sql
+        ├── 02_create_user.sql
+        ├── 03_create_tablespaces.sql
+        ├── 04_archive_log.sql
+        ├── 05_verify.sql
+        ├── 05_verify_output.sql
+        └── 06_em_express.sql
     ├── 01_create_tables.sql
     ├── 02_insert_data.sql
     └── 03_queries.sql
@@ -97,4 +105,12 @@ staynest/
     ├── diagram.png
     ├── c1.png
     └── insertion.png
+└──screenshots
+    ├── 01_create_PDB.PNG
+    ├── 02_create_user.PNG
+    ├── 03_create_tablespaces.PNG
+    ├── 04_archive_log.PNG
+    ├── 05_verify1_PNG
+    ├── 05_verify2_PNG
+    └── 06_em_express.PNG
 ```
